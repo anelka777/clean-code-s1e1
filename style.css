@@ -62,8 +62,26 @@
   color: #3a3a3a;
 }
 /* Heading */
-.section-title,
+.add-item-title {
+  color: #333;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 60px 0 0 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
 .new-task-label {
+  color: #333;
+  font-weight: 700;
+  font-size: 15px;
+  border-bottom: 2px solid #333;
+  padding: 0 0 10px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.section-title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
